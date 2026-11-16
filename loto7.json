@@ -1,4 +1,18 @@
 {
+  "highlights": {
+    "topAll": {
+      "number": 15,
+      "count": 156
+    },
+    "topRecent50": {
+      "number": 22,
+      "count": 20
+    },
+    "longestGap": {
+      "number": 19,
+      "gap": 19
+    }
+  },
   "draw": 704,
   "drawDate": "2026-11-20",
   "deadline": "2026-11-20T18:30:00+09:00",
@@ -60,5 +74,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-16T21:41:22+09:00"
+  "updatedAt": "2026-11-16T21:47:07+09:00"
 }
